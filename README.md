@@ -10,12 +10,12 @@ Mas antes de descrever o desfecho desse projeto, acredito que devem conhecer o *
 
 <center><img src="https://user-images.githubusercontent.com/100171322/176485383-113df350-cc6c-45c8-b242-81c1f5676e91.png"></center>
 
-> **_~~PS.:~~_** _Sim, o nome do nosso grupo faz alusão ao filme [Clube dos Cinco](https://www.papodecinema.com.br/filmes/clube-dos-cinco/), mas não porque cometemos algum delito ou coisa do tipo, rs... mas sim, como no filme, existe os esteriotipos de cada personagem, mas durante todo o desenvolvimento do enredo, esse esteriotipo existente vai sendo desconstruido, assim como aconteceu com o nosso grupo. Cada um de nós tinha uma primeira impressão de cada, e como proposto em uma das aulas de Soft Skills, conseguimos saber como os nossos colegas nos viam de inicio, e ter um feedback de como eles nos enxergam agora. Um grande crescimento pessoal e do coletivo._
+> **_~~PS.:~~_** _Sim, o nome do nosso grupo faz alusão ao filme [Clube dos Cinco](https://www.papodecinema.com.br/filmes/clube-dos-cinco/), mas não porque cometemos algum delito ou coisa do tipo, rs... mas sim, como no filme, existe os esteriotipos de cada personagem, porém, durante todo o desenvolvimento do enredo esses esteriotipos existentes vão sendo desconstruidos, assim como aconteceu com o nosso grupo. Todos nós tinhamos uma primeira impressão de cada um, e como proposto em uma das aulas de Soft Skills, conseguimos saber como os nossos colegas nos viam de inicio, e ter um feedback de como eles nos enxergam agora. Um grande crescimento pessoal e do coletivo._
 
-> Uma palavra que define esse grupo desde o ínicio é **_disposição_**, sem dúvidas, é o que todos nós mais temos. Pessoas bem diferentes, com idéias, rotinas diferentes, mas com muita disposição de fazer tudo dar certo, de estar sempre ali incentivando uns aos outros, buscando por atualizações do projeto, trazendo idéias e **sempre** oferecendo ajuda a quem precisa. Com horários bem divergentes tivemos a solução logo no ínicio de termos reuniões **_todos os dias_** para quem mesmo faltando algum integrante, o andamento do trabalho continuaria e em outra reunião a pessoa que faltou poderia estar presente e assim seguirmos. Foi uma ótima solução para não deixar ninguém desfalcado e prejudicado. Acredito que outras palavras que nos definam bem também, é: **criatividade** é claro, e **imaginação** para dar vida a ~~_literalmeente_~~ um sonho, o nosso: 
+> Uma palavra que define esse grupo desde o ínicio é **_disposição_**, sem dúvidas, é o que todos nós mais temos. Pessoas bem diferentes, com idéias, rotinas diferentes, e com muita disposição de fazer tudo dar certo, de estar sempre ali incentivando uns aos outros, buscando por atualizações do projeto, trazendo idéias e **sempre** oferecendo ajuda a quem precisa. Com horários bem divergentes tivemos a solução logo no começo de termos reuniões **_todos os dias_** para que mesmo faltando algum integrante, o andamento do trabalho continuaria e em outra reunião a pessoa que faltou poderia estar presente e assim seguirmos. Foi uma ótima solução para não deixar ninguém desfalcado e prejudicado. Acredito que outras palavras que nos definam bem também, são: **criatividade** é claro, e **imaginação** para dar vida a ~~_literalmeente_~~ um sonho, o nosso: 
 
 ![image](https://user-images.githubusercontent.com/100171322/176488849-20fbde78-0dbd-41dc-9c2e-57c79cf1a17e.png)
-> O **Show do Thronão** -_sim é um nome bem cômico, rs_- foi uma idéia que achavámos estar bem distante da realidade, pois eram sonhos e devaneios nossos, rindo do desespero ao buscar uma idéia que tornasse válida todas as nossas análises para a criação das querys.
+> O **Show do Thronão** -_sim é um nome bem cômico, rs_- foi uma idéia que achavámos estar bem distante da realidade, pois eram sonhos e devaneios nossos, rindo do desespero ao buscar algo que tornasse válida todas as nossas análises para a criação das querys.
 
 ## 📊SOBRE O PROJETO:
 
@@ -89,9 +89,9 @@ Devido a termos alguns horários disponíveis em comum, e também por conta das 
 
 <center><img src="https://user-images.githubusercontent.com/100171322/176563383-2ee6d39f-c8b5-4d88-b5c9-2f53cc88c1f6.png"></center>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/carolina-souza-ti/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pedro-toni/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/carolinadesouzasilva)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/pedrotoni)
 
 
 <center><img src="https://user-images.githubusercontent.com/100171322/176563435-90f45e3f-d9ff-4085-9f1b-940e18f3c22c.png"></center>
